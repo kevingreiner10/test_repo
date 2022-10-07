@@ -1,3 +1,4 @@
 hello world and all who inhabit it!
 I am adding text to see if I can do git on my own
 Another new line!
+I think I am getting the hang of git! 
